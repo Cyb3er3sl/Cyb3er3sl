@@ -1,49 +1,63 @@
 # Welcome to mstr3sl's World 🌐🐧
 
-👋 **Hello! I'm mstr3sl** — a passionate full-stack developer and Linux enthusiast. I thrive on creating powerful, efficient web applications and exploring the depths of the Linux operating system.
+👋 **Hi, I'm mstr3sl** — a passionate full-stack developer, Linux systems expert, and self-hosting enthusiast. I specialize in building scalable applications, managing powerful servers, and constantly pushing the limits of technology.
 
 ---
 
 ## 🚀 About Me
 
-- **Full-Stack Web Developer**: Skilled in building scalable web applications using modern tech stacks.
-- **Linux Master**: Deep experience with Linux for development, scripting, system optimization, and automation.
-- **Lifelong Learner**: Constantly exploring new technologies, refining skills, and pushing the boundaries of what's possible with code.
+- **Full-Stack Developer**: Experienced in designing and building modern, responsive web applications.
+- **Linux Systems Specialist**: Skilled in server management, system optimization, automation, and scripting.
+- **Self-Hosting Advocate**: Proficient in setting up, securing, and optimizing self-hosted services, including media servers like Jellyfin and web infrastructure with Nginx.
+- **Continuous Learner**: Dedicated to mastering new technologies, refining my craft, and expanding my knowledge — both technical and personal.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
-### Languages
-- **Frontend**: JavaScript (React, Vue), HTML, CSS
-- **Backend**: Node.js, Express, Python (Flask/Django), PHP
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Git, CI/CD, and cloud platforms (AWS, DigitalOcean)
+### Development
+- **Frontend**: JavaScript (React, Vue.js), HTML5, CSS3
+- **Backend**: Node.js (Express), PHP, Python (Flask, Django)
 
-### Platforms & Tools
-- **Linux Wizardry**: Terminal commands, shell scripting, system management, and performance tuning
-- **Version Control**: Git, GitHub, GitLab
-- **Project Management**: Trello, JIRA, Notion
+### Databases
+- MySQL, PostgreSQL, MongoDB
+
+### DevOps & Server Management
+- Linux administration (Ubuntu, Debian, Arch)
+- Nginx, Docker, SSL (Let's Encrypt), Reverse Proxy
+- CI/CD pipelines, GitHub Actions
+- Cloud Services: AWS, DigitalOcean
+
+### Additional Tools
+- Shell scripting, system hardening, performance tuning
+- Git, GitHub, GitLab
+- Project Management: Notion, Trello
 
 ---
 
-## 🔧 What I’m Working On
+## 🔥 Current Projects
 
-- Building **scalable web applications** that bring value to end-users and stakeholders
-- Creating **open-source Linux utilities** for developers
-- Developing projects that **optimize workflows** and enhance productivity
+- Deploying **self-hosted applications** with secure, scalable server setups.
+- Building **open-source Linux utilities** to streamline developer workflows.
+- Continuously enhancing **server performance** and system reliability.
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
 - GitHub: [mstr3sl](https://github.com/mstr3sl)
-- Email: mstr3sl@hotmail.com
+- Email: [mstr3sl@hotmail.com](mailto:mstr3sl@hotmail.com)
 
 ---
 
-## 💡 Fun Fact
+## ✨ Fun Facts
 
-- I’m known for my obsession with **command-line magic** and enjoy sharing productivity tips with other developers.
-  
-Thanks for visiting, and let’s code something awesome together!
+- I’m passionate about **command-line mastery** and **Linux wizardry**.
+- I enjoy sharing tips on **self-hosting, automation,** and **system optimization**.
+- I believe in the power of **continuous learning** — in tech, life, and beyond.
+
+---
+
+Thanks for visiting — **let’s build, optimize, and self-host the future together!** 🚀
+
+---
