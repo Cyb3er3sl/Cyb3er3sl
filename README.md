@@ -46,7 +46,7 @@
 ## 📫 Connect With Me
 
 - GitHub: [mstr3sl](https://github.com/mstr3sl)
-- Email: [mstr3sl@mstr3sl.fun](mailto:mstr3sl@mstr3sl.fun)
+- Email: [mstr3sl@mstr3sl.fun](mailto:mstr3sl@darkcord.net)
 
 ---
 
